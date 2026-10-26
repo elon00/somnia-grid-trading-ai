@@ -1,0 +1,9 @@
+[package]
+name = "somnia-grid-trading-ai"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Luther <martinlutherupa1@gmail.com>"]
+description = "Dynamic algorithmic grid market-making agent"
+license = "MIT"
+
+[dependencies]
